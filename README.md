@@ -1,5 +1,5 @@
 
-![Gemini Chat](public/gemini.png)
+![Gemini Chat](/gemini.png)
 
 
 # Mini Gemini Chat
