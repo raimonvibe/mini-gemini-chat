@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # Mini Gemini Chat
 
 A **super simple chat app** that lets you talk to Google’s **Gemini AI**.  
