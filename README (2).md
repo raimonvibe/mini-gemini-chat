@@ -126,21 +126,6 @@ This section documents the findings from a review of the **mini-gemini-chat** re
 - Minimalist design → easy to understand and extend.  
 - Logo image (`gemini.png`) adds branding.  
 
-### 👀 What could be improved
-- `.env` should be in `.gitignore` to avoid leaking secrets (only keep `.env.example` public).  
-- Repo metadata (topics, description) is missing.  
-- Styling is inline/minimal — could be moved to a dedicated `styles.css`.  
-- No tests, limited error handling.  
-
-### 💡 Suggestions
-1. Put `gemini.png` at the top of `README.md` (done ✅).  
-2. Move CSS into `public/styles.css` for modularity.  
-3. Add `.gitignore` with `.env`.  
-4. Fill in repo description and topics for better discoverability.  
-5. Add screenshots or a GIF demo of the app in action.  
-
----
-
 ## ✅ You’re ready!
 Now you have your **own Gemini chatbot** running locally.  
 Type messages in the input box and Gemini will respond.
