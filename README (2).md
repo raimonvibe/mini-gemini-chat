@@ -14,17 +14,6 @@ It’s designed for beginners — no complicated setup needed.
 - Backend calls **Google Gemini** and sends replies back to the browser
 - Your API key stays private (never exposed in the browser)
 
----
-
-## 🖼️ Demo
-Here’s how it looks in action:
-
-![Demo Screenshot](public/demo-screenshot.png)
-
-> Tip: Replace the above image with your own screenshot or a GIF demo.  
-> To create a GIF, you can use free tools like [ScreenToGif](https://www.screentogif.com/) or [LICEcap](https://www.cockos.com/licecap/).
-
----
 
 ## 🛠️ Setup instructions (beginner-friendly)
 
